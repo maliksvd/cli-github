@@ -8,6 +8,12 @@ a simple cli to get some info from your github account
 pnpm install -g cli-github
 ```
 
+### add your github token to .env
+
+```bash
+GITHUB_TOKEN=your-github-token
+```
+
 ## Usage
 
 ```bash
